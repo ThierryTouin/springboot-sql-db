@@ -45,6 +45,7 @@ public class SpringbootSqlDemo implements CommandLineRunner{
   
   public static void main(String[] args) {
     SpringApplication.run(SpringbootSqlDemo.class, args);
+    
   }
  
 }
